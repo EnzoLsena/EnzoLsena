@@ -41,6 +41,7 @@ Foco em arquitetura escalável, APIs performáticas e front moderno
 - APIs REST escaláveis  
 - Autenticação JWT  
 - Cache com Redis  
+- Serviçoes de fila Redis 
 - Dockerização de aplicações  
 - Arquitetura modular  
 - Integrações com APIs externas  
